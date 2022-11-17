@@ -1,6 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Player Quarters","order":1,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
-{"id":2,"expanded":false,"name":"Bathroom","order":2,"parentId":1,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
-{"id":3,"expanded":false,"name":"RoomHall","order":3,"parentId":1,"scrollX":752.4,"scrollY":408}
+{"id":1,"expanded":true,"name":"Player Quarters","order":9,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":2,"expanded":true,"name":"Bathroom","order":10,"parentId":1,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":3,"expanded":false,"name":"RoomHall","order":1,"parentId":0,"scrollX":752.4,"scrollY":408},
+{"id":4,"expanded":true,"name":"Crew 1","order":7,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":5,"expanded":false,"name":"Bathroom 1","order":8,"parentId":4,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":6,"expanded":true,"name":"Captain Quarters","order":2,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":7,"expanded":true,"name":"Crew 2","order":5,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":8,"expanded":true,"name":"Bathroom 2","order":6,"parentId":7,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":9,"expanded":true,"name":"Personal Quarters","order":3,"parentId":0,"scrollX":557.3333333333334,"scrollY":302.22222222222223},
+{"id":10,"expanded":false,"name":"Bathroom P","order":4,"parentId":9,"scrollX":557.3333333333334,"scrollY":302.22222222222223}
 ]
